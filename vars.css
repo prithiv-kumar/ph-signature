@@ -1,0 +1,20 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --demo-color: #000000;
+
+  /* Fonts */
+  --heading-font-family: Inter-SemiBold, sans-serif;
+  --heading-font-size: 24px;
+  --heading-line-height: normal;
+  --heading-font-weight: 600;
+  --heading-font-style: normal;
+  --body-font-family: Inter-Light, sans-serif;
+  --body-font-size: 14px;
+  --body-line-height: normal;
+  --body-font-weight: 300;
+  --body-font-style: normal;
+
+  /* Effects */
+  --effect-box-shadow: 24px 27px 7.7px 20px rgba(0, 0, 0, 0.25);
+}
